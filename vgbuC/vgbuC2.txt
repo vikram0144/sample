@@ -1,2 +1,0 @@
-This second vgbuC file.
-Merge happend in remote vgbu everything fine. But VGBUC contains old value of vgbumain.txt.

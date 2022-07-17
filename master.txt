@@ -1,2 +1,0 @@
-This is Master text will be present in all branches.
-Master-master text file.
